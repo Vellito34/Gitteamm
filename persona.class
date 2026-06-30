@@ -1,5 +1,10 @@
-class persona
+
+class persona{
+
+	private String nombre;
+
+}
 
 
-Persona 100% real 
-Perso 6 
+#Persona 100% real 
+#Perso 6 
